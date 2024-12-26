@@ -1,3 +1,9 @@
-Olá, antes de tudo, instale as dependencias, apenas rode o comando abaixo.
+👋 Olá! Antes de tudo, instale as dependências. Apenas rode o comando abaixo:
 
-pip install -r requirements.txt
+📦 pip install -r requirements.txt
+
+Depois, para iniciar o programa, execute:
+
+🚀 python main.py
+
+🙏 Obrigado por usar nosso software!
