@@ -11,7 +11,7 @@ Este repositório contém um script Python chamado `main.py` que é utilizado pa
 ## Como Usar
 1. Clone o repositório:
     ```bash
-    git clone https://github.com/seu-usuario/SALVA-SENHAS-PY.git
+    git clone https://github.com/abraaoxz/SALVA-SENHAS-PY.git
     ```
 2. Navegue até o diretório do projeto:
     ```bash
@@ -21,6 +21,11 @@ Este repositório contém um script Python chamado `main.py` que é utilizado pa
     ```bash
     python main.py
     ```
+4. Instale as dependencias:
+
+    ```
+    pip install -r requirements.txt
+    ```
 
 ## Dependências
 - Python 3.x
@@ -28,6 +33,3 @@ Este repositório contém um script Python chamado `main.py` que é utilizado pa
 
 ## Contribuição
 Sinta-se à vontade para abrir issues e enviar pull requests. Para mudanças maiores, por favor, abra uma issue primeiro para discutir o que você gostaria de mudar.
-
-## Licença
-Este projeto está licenciado sob a licença MIT. Veja o arquivo `LICENSE` para mais detalhes.
