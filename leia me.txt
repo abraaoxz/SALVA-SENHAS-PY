@@ -1,0 +1,3 @@
+Olá, antes de tudo, instale as dependencias, apenas rode o comando abaixo.
+
+pip install -r requirements.txt
